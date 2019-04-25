@@ -6,9 +6,9 @@ baseurl:           "/"
 url:               "http://rodrigoangelo.net.br"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  drigoangelo
+github_username:   drigoangelo
+facebook_username: drigo.angelo
 
 # Build settings
 markdown:          kramdown
