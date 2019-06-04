@@ -13,6 +13,8 @@ Hoje vou compartilhar o código do exemplo da apresentação sobre Algoritmos Ge
 Quando eu postar aqui no site, eu vou colocar um link para a apresentação [aqui]
 
 
+# Primeiro vamos importar as bibliotecas necessárias
+
 ```python
 import random
 import numpy
@@ -20,9 +22,6 @@ from deap import creator, base, tools, algorithms
 import matplotlib.pyplot as plt
 ```
 
-    D:\Programas\Anaconda3\lib\site-packages\deap\tools\_hypervolume\pyhv.py:33: ImportWarning: Falling back to the python version of hypervolume module. Expect this to be very slow.
-      "module. Expect this to be very slow.", ImportWarning)
-    
 
 # Definindo a classe Produto
 
