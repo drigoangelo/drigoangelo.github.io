@@ -18,3 +18,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+theme: jekyll-theme-time-machine
